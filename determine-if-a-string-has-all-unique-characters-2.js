@@ -1,5 +1,5 @@
 /**
- * determine if a string has all unique characters for [a..z] letters
+ * determine if a string has all unique characters
  * @param {string} str
  * @return {boolean}
  * Time complexity is O(n)
