@@ -1,0 +1,26 @@
+/**
+ * rreverse an array in place
+ * @param {Array.<string>} arr
+ * @return {Array.<string>} reversed arr
+ * Time complexity is O(n)
+ * Space complexity is O(1)
+ */
+const reverse = (arr) => {
+  
+  for(let i=0, j=arr.length - 1; i<j; i++, j--){
+    
+    const cached = arr[i];
+    arr[i] = arr[j];
+    arr[j] = cached;
+  }
+ 
+  return arr;
+  
+};
+
+// TEST -------------
+const values = ['', 'a', 'abc', 'aaa', 'efefef', 'abcdef'];
+
+values.forEach((str, i) => {
+  console.log(`${str}: `, reverse(str.split('')));
+});
