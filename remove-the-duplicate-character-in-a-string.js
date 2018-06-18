@@ -17,9 +17,8 @@ const removeDuplicates = (str) => {
     const charCode = str.charCodeAt(i);
     const charCodeDiff = charCode - aCharCode;
     const charMapped = 1 << charCodeDiff;
-    const and = mask & charMapped;
     
-    if(and === 0){
+    if((mask & charMapped) === 0){
       formatted += str[i];
     }
     
