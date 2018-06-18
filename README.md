@@ -7,3 +7,6 @@
   
 ### Write code to reverse an array in place.
   1. [O(n) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/reverse-an-array-in-place) / [Codepen](https://codepen.io/1rosehip/pen/vrWowx)
+  
+### Remove the duplicate characters in a string without using any additional buffer.
+  1. [O(n) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/remove-the-duplicate-character-in-a-string.js) / [Codepen](https://codepen.io/1rosehip/pen/ZRvzKE)
