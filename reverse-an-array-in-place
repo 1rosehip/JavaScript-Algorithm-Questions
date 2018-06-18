@@ -1,5 +1,5 @@
 /**
- * rreverse an array in place
+ * reverse an array in place
  * @param {Array.<string>} arr
  * @return {Array.<string>} reversed arr
  * Time complexity is O(n)
