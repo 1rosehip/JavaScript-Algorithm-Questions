@@ -10,3 +10,6 @@
   
 ### Remove the duplicate characters in a string without using any additional buffer.
   1. [O(n) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/remove-the-duplicate-character-in-a-string.js) / [Codepen](https://codepen.io/1rosehip/pen/ZRvzKE)
+  
+### Check whether two strings are anagram of each other.
+  1. [O(n) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/check-whether-two-strings-are-anagram-of-each-other.js) / [Codepen](https://codepen.io/1rosehip/pen/YvYzOb?editors=0011)
