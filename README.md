@@ -22,3 +22,6 @@
   
 ### Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column is set to 0.
   1. [O(nm) time complexity and O(1) space complexity using bitwise operators](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/if-element-in-mn-matrix-0-entire-row-and-column-0.js) / [Codepen](https://codepen.io/1rosehip/pen/vrjwzG?editors=0011)
+  
+### JavaScript linked list implementations
+  1. [Singly-linked list](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list.js) / [Codepen](https://codepen.io/1rosehip/pen/NzMQZr?editors=1111)  
