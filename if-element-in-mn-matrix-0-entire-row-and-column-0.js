@@ -1,7 +1,7 @@
 /**
  * convert array to binary number
  * @param {Array.<number>} arr
- * return {number} binary number
+ * @return {number} binary number
  */
 const arrayToBin = (arr) => {
   
@@ -38,7 +38,7 @@ const getMaxBinNumPerWidth = (digitsNum) => {
  * if an element in an MxN matrix is 0, its entire row and column is set to 0
  * O(mxn) time complexity and O(1) space complexity 
  * @param {Array.<Array.<number>>} matrix
- * return {Array.<Array.<number>>} updated matrix
+ * @return {Array.<Array.<number>>} updated matrix
  */
 const updateMatrix = (matrix) => {
   
