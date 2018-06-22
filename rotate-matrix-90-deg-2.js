@@ -8,7 +8,6 @@ const rotate90 = (matrix) => {
   
   const n = matrix.length;
   
-  //transpose -------
   for(let a=0; a<n; a++){
    
     for(let b=a; b<n-a-1; b++){
