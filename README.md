@@ -19,3 +19,6 @@
   1. [O(n^2) time complexity and O(1) space complexity using matrix transpose](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg.js) / [Codepen](https://codepen.io/1rosehip/pen/ZRoENO)
   2. [O(n^2) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg-2.js) / [Codepen](https://codepen.io/1rosehip/pen/bKMdNq)
   3. [O(n^2) time complexity and O(n^2) space complexity using additional arrays](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg-3.js) / [Codepen](https://codepen.io/1rosehip/pen/JZvyGM)
+  
+### Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column is set to 0.
+  1. [O(nm) time complexity and O(1) space complexity using bitwise operators](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/if-element-in-mn-matrix-0-entire-row-and-column-0.js) / [Codepen](https://codepen.io/1rosehip/pen/vrjwzG?editors=0011)
