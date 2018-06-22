@@ -16,6 +16,6 @@
   2. [O(n) time complexity and O(n) space complexity using helper object](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/check-whether-two-strings-are-anagram-of-each-other-2.js) / [Codepen](https://codepen.io/1rosehip/pen/zaprQO?editors=0011)
 
 ### Given an NxN matrix, write a method to rotate it by 90 degrees.
-  1. [O(n^2) time complexity and O(1) space complexity using matrix transpose](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg.js) / [Codepen](https://codepen.io/1rosehip/pen/bKMdNq)
+  1. [O(n^2) time complexity and O(1) space complexity using matrix transpose](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg.js) / [Codepen](https://codepen.io/1rosehip/pen/ZRoENO)
   2. [O(n^2) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg-2.js) / [Codepen](https://codepen.io/1rosehip/pen/bKMdNq)
   3. [O(n^2) time complexity and O(n^2) space complexity using additional arrays](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg-3.js) / [Codepen](https://codepen.io/1rosehip/pen/JZvyGM)
