@@ -1,6 +1,7 @@
 
 /**
  * rotate matrix by 90 deg
+ * O(n^2) time complexity and O(1) space complexity using matrix transpose
  * @param {Array.<Array.<number>>} matrix
  * return {Array.<Array.<number>>} rotated matrix
  */
@@ -42,7 +43,7 @@ const matrix1 = [
 
 const res = rotate90(matrix1);
 
-console.log('--------------------');
+//print the result
 res.forEach((el, i) => {
   console.log(el);
 });
