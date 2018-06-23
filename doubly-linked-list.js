@@ -105,7 +105,11 @@ class DoublyLinkedList{
    else{
      nodeToRemove = this.get(position);
      
-     nodeToRemove.prev.next = nodeToRemove.next;
+     const prevNode = nodeToRemove.prev;
+     const nextNode = nodeToRemove.next;
+     
+     prevNode.next = nextNode;
+     nextNode.prev = prevNode;
    }
     
    this.length--;
