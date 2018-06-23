@@ -46,7 +46,7 @@ class SinglyLinkedList{
     }
     
     this.length++;
-    return this.head;
+    return newNode;
   }
   
   /**
