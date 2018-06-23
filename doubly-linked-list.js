@@ -8,6 +8,7 @@ class DoublyLinkedList{
    */
   constructor(){
     this.head = null;
+    this.tail = null;
     this.length = 0;
   }
   
@@ -26,19 +27,16 @@ class DoublyLinkedList{
     
     if(!this.head){
       this.head = newNode;
+      this.tail = newNode;
     }
     else{
-      let nextNode = this.head;
-      while(nextNode.next){
-        nextNode = nextNode.next;
-      }
-      
-      nextNode.next = newNode;
-      newNode.prev = nextNode;
+      this.tail.next = newNode;
+      newNode.prev = this.tail;
+      this.tail = newNode;
     }
     
     this.length++;
-    return this.head;
+    return newNode;
   }
   
   /**
