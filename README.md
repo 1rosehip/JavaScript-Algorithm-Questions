@@ -25,3 +25,4 @@
   
 ### JavaScript linked list implementations
   1. [Singly-linked list implementation - add, remove, get, toString](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list.js) / [Codepen](https://codepen.io/1rosehip/pen/NzMQZr?editors=1111)  
+  2. [Doubly-linked list implementation - add, remove, get, toString](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/doubly-linked-list.js) / [Codepen](https://codepen.io/1rosehip/pen/GGGrZE) 
