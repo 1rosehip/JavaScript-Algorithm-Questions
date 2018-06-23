@@ -140,17 +140,9 @@ positions.forEach((pos, i) => {
 });
 
 //remove tests
-let removed = ll1.remove(3);
-console.log('Removed: ' + removed.data + ', ' + ll1.toString());
+const toRemove = [3, 0, 1, 0, 0];
 
-removed = ll1.remove(0);
-console.log('Removed: ' + removed.data + ', ' + ll1.toString());
-
-removed = ll1.remove(1);
-console.log('Removed: ' + removed.data + ', ' + ll1.toString());
-
-removed = ll1.remove(0);
-console.log('Removed: ' + removed.data + ', ' + ll1.toString());
-
-removed = ll1.remove(0);
-console.log('Removed: ' + removed.data + ', ' + ll1.toString());
+toRemove.forEach((el, i) => {
+  let removed = ll1.remove(el);
+  console.log('Removed: ' + removed.data + ', ' + ll1.toString());
+});
