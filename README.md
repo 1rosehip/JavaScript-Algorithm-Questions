@@ -37,4 +37,6 @@
   1. [Sort singly-linked list using merge sort - O(n log n) time complexity and O(n) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list-merge-sort.js) / [Codepen](https://codepen.io/1rosehip/pen/jKKyzd)  
   
 ### Remove duplicates from unsorted linked list  
-  1. [Remove duplicates from unsorted singly-linked list using merge sort - O(n log n) time complexity and O(n) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list-remove-duplicates.js) / [Codepen](https://codepen.io/1rosehip/pen/gKKyxQ)  
+  1. [Remove duplicates from unsorted singly-linked list using merge sort - O(n log n) time complexity and O(n) space complexity, the array order is not saved](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list-remove-duplicates.js) / [Codepen](https://codepen.io/1rosehip/pen/gKKyxQ)  
+  
+  2. [Remove duplicates from unsorted singly-linked list using beffer - O(n) time complexity and O(n) space complexity, the array order is saved](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list-remove-duplicates-2.js) / [Codepen](https://codepen.io/1rosehip/pen/XYYQqM)  
