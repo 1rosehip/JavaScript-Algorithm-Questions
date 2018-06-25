@@ -188,5 +188,5 @@ numbers.forEach(row => {
   console.log(ll.toString());
   console.log(l2.toString());
   console.log('Sum: ' + sum(ll,  l2).toString()); 
-    console.log('---------------------------------------');
+  console.log('---------------------------------------');
 });
