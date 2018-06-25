@@ -40,3 +40,12 @@
   1. [Remove duplicates from unsorted singly-linked list using merge sort - O(n log n) time complexity and O(n) space complexity, the array order is not saved](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list-remove-duplicates.js) / [Codepen](https://codepen.io/1rosehip/pen/gKKyxQ)  
   
   2. [Remove duplicates from unsorted singly-linked list using beffer - O(n) time complexity and O(n) space complexity, the array order is saved](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/singly-linked-list-remove-duplicates-2.js) / [Codepen](https://codepen.io/1rosehip/pen/XYYQqM)  
+  
+### Add 2 numbers represented as singly-linked list.
+You have two numbers represented by a linked list, where each node contains a sin- gle digit. The digits are stored in reverse order, such that the 1’s digit is at the head of the list. Write a function that adds the two numbers and returns the sum as a linked list.
+
+EXAMPLE:
+Input: (3 -> 1 -> 5), (5 -> 9 -> 2)
+Output: 8 -> 0 -> 8
+
+  1. [O(n) time complexity and O(1) space complexity using linked list length](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/add-2-numbers-represented-as-linked-list.js) / [Codepen](https://codepen.io/1rosehip/pen/JZBRwM?editors=1011)  
