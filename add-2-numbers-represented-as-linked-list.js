@@ -97,7 +97,7 @@ class SinglyLinkedList{
       
       node = node.next;
       index++;
-    } while(node.next)
+    } while(node)
     
     return found;
   }
