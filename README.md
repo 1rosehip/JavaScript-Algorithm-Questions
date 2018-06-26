@@ -52,3 +52,9 @@ You have two numbers represented by a linked list, where each node contains a si
 
 
   1. [O(n) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/add-2-numbers-represented-as-linked-list.js) / [Codepen](https://codepen.io/1rosehip/pen/JZBRwM?editors=1011)  
+  
+## Stack
+
+### JavaScript stack implementations
+  1. [Stack implementation using array](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/stack-1.js) / [Codepen](https://codepen.io/1rosehip/pen/RJYrjQ)  
+  
