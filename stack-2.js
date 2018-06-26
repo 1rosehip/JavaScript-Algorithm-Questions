@@ -18,11 +18,13 @@ class SinglyLinkedList{
    */
   constructor(){
     this.head = null;
+    this.tail = null;
     this.length = 0;
   }
   
   /**
    * add some data to the linked list
+   * time complexity O(1)
    * @param {*} data
    * @return {objected} created node
    */
@@ -35,14 +37,11 @@ class SinglyLinkedList{
     
     if(!this.head){
       this.head = newNode;
+      this.tail = newNode;
     }
     else{
-      let nextNode = this.head;
-      while(nextNode.next){
-        nextNode = nextNode.next;
-      }
-      
-      nextNode.next = newNode;
+      this.tail.next = newNode;
+      this.tail = newNode;
     }
     
     this.length++;
@@ -97,6 +96,7 @@ class SinglyLinkedList{
   
   /**
    * removes the element at the specified position in this list
+   * time complexity O(n)
    * @param {number} position
    * return {object} removed element
    */
@@ -119,6 +119,7 @@ class SinglyLinkedList{
    this.length--;
    return nodeToRemove;
   }
+  
 }
 
 /**
@@ -148,10 +149,11 @@ class Stack{
   
   /**
    * peek or top -> returns top element without removing it
+   * time complexity O(1)
    * @return {*}
    */
   peek(){
-    return this.buffer.get(this.buffer.length - 1).data;
+    return this.buffer.tail.data;
   }
   
   /**
