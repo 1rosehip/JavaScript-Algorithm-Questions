@@ -62,7 +62,7 @@ class SinglyLinkedList{
     let res = "";
     
     let nextNode = this.head;
-    while(nextNode.next){
+    while(nextNode){
       res += '-> ' + nextNode.data;
       nextNode = nextNode.next;
     }
@@ -90,7 +90,7 @@ class SinglyLinkedList{
       
       node = node.next;
       index++;
-    } while(node.next)
+    } while(node)
     
     return found;
   }
@@ -132,7 +132,7 @@ ll1.add(6);
 console.log(ll1.toString());
 
 //get elements tests
-const positions = [-1, 0, 1, 2, 3, 4, 5];
+const positions = [-1, 0, 1, 2, 3, 4, 5, 6];
 
 positions.forEach((pos, i) => {
   const el = ll1.get(pos);
