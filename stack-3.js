@@ -181,3 +181,7 @@ console.log('pop 6: ' +stack.toString());
 //peek
 console.log('peek: ' +stack.peek());
 console.log(stack.toString());
+
+//is empty?
+console.log('is empty?: ' +stack.peek());
+console.log('is empty? ' + stack.isEmpty());
