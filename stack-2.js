@@ -158,6 +158,7 @@ class Stack{
   
   /**
    * checks whether the stack is empty
+   * time complexity O(1)
    * @return {boolean}
    */
   isEmpty(){
@@ -188,7 +189,7 @@ stack.pop();
 console.log('pop 6: ' +stack.toString());
 
 //peek
-console.log('peek: ' +stack.peek());
+console.log('peek: ' + stack.peek());
 console.log(stack.toString());
 
 //is empty?
