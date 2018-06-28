@@ -60,3 +60,7 @@ You have two numbers represented by a linked list, where each node contains a si
   2. [Stack implementation using singly-linked-list - push, pick and isEmpty O(1), pop O(n)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/stack-2.js) / [Codepen](https://codepen.io/1rosehip/pen/Kexzrm)  
   3. [Stack implementation using doubly-linked-list - push, pop, pick, isEmpty O(1)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/stack-3.js) / [Codepen](https://codepen.io/1rosehip/pen/QxVEJx)  
   
+## Queue
+
+### JavaScript queue implementations
+  1. [Queue implementation using array](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/queue-1.js) / [Codepen](https://codepen.io/1rosehip/pen/xzyJme)  
