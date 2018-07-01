@@ -64,3 +64,8 @@ You have two numbers represented by a linked list, where each node contains a si
 
 ### JavaScript queue implementations
   1. [Queue implementation using array](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/queue-1.js) / [Codepen](https://codepen.io/1rosehip/pen/xzyJme)  
+  
+## Binart Tree
+
+### JavaScript binary tree implementations
+  1. [Binary tree inser using queue; inorder, preorder and postorder traversals](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/btree-1.js) / [Codepen](https://codepen.io/1rosehip/pen/WyPpxR)    
