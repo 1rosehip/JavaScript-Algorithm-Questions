@@ -5,3 +5,6 @@
 - binary search tree insert node
 - binary search tree remove node
 - binary search tree find a node
+- balance a binary search tree
+- depth first search                
+- breadth first search
