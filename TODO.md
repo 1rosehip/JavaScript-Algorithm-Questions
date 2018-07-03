@@ -14,3 +14,4 @@
 - merge sort
 - quick sort
 - bucket sort
+- avl tree
