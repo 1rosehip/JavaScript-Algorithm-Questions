@@ -8,3 +8,9 @@
 - balance a binary search tree
 - depth first search                
 - breadth first search
+- bubble sort
+- selection sort
+- insertion sort
+- merge sort
+- quick sort
+- bucket sort
