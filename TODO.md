@@ -1,5 +1,5 @@
-- binary tree remove node
-- binary tree search for a node
+- ~~binary tree remove node~~
+- ~~binary tree search for a node~~
 - binary search tree implementation
 - binary search tree traversals
 - binary search tree insert node
