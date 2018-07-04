@@ -68,4 +68,4 @@ You have two numbers represented by a linked list, where each node contains a si
 ## Binart Tree
 
 ### JavaScript binary tree implementations
-  1. [Binary tree insert using queue; inorder, preorder and postorder traversals](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/btree-1.js) / [Codepen](https://codepen.io/1rosehip/pen/WyPpxR)    
+  1. [Binary tree insert using queue; inorder, preorder and postorder traversals; find a node; remove a node; find deepest node;](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/btree-1.js) / [Codepen](https://codepen.io/1rosehip/pen/WyPpxR)    
