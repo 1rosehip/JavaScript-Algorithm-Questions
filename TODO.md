@@ -15,3 +15,4 @@
 - quick sort
 - bucket sort
 - avl tree
+- binary heap
