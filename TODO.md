@@ -16,3 +16,4 @@
 - bucket sort
 - avl tree
 - binary heap
+- Red-Black Tree
