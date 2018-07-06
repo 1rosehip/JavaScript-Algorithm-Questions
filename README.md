@@ -65,7 +65,12 @@ You have two numbers represented by a linked list, where each node contains a si
 ### JavaScript queue implementations
   1. [Queue implementation using array](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/queue-1.js) / [Codepen](https://codepen.io/1rosehip/pen/xzyJme)  
   
-## Binart Tree
+## Binary Tree
 
 ### JavaScript binary tree implementations
   1. [Binary tree insert using queue; inorder, preorder and postorder traversals; find a node; remove a node; find deepest node;](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/btree-1.js) / [Codepen](https://codepen.io/1rosehip/pen/WyPpxR)    
+  
+## Binary Search Tree
+
+### JavaScript search binary tree implementations
+  1. [Binary search tree insert; inorder, preorder and postorder traversals; find a node; remove a node; find min node;](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/bst-1.js) / [Codepen](https://codepen.io/1rosehip/pen/GGaVRd)      
