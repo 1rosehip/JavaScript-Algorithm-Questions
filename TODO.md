@@ -3,7 +3,7 @@
 - ~~binary search tree implementation~~
 - ~~binary search tree traversals~~
 - ~~binary search tree insert node~~
-- binary search tree remove node
+- ~~binary search tree remove node~~
 - ~~binary search tree find a node~~
 - balance a binary search tree
 - depth first search                
