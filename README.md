@@ -74,3 +74,8 @@ You have two numbers represented by a linked list, where each node contains a si
 
 ### JavaScript search binary tree implementations
   1. [Binary search tree insert; inorder, preorder and postorder traversals; find a node; remove a node; find min node;](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/bst-1.js) / [Codepen](https://codepen.io/1rosehip/pen/GGaVRd)      
+  
+## Trie
+
+### JavaScript trie implementations
+  1. [Trie insert, check if contains a whole word, find words by prefix](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/trie-1.js) / [Codepen](https://codepen.io/1rosehip/pen/XYvEZO)     
