@@ -17,3 +17,6 @@
 - avl tree
 - binary heap
 - Red-Black Tree
+- suffix tree
+- suffix array
+- suffix trie
