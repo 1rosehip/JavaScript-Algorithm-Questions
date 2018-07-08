@@ -141,13 +141,17 @@ class Trie{
 const trie = new Trie();
 trie.insert('hello');
 trie.insert('helium');
+trie.insert('he');
 //console.log(JSON.stringify(trie, null, 4));
 
 
 // check contains method
 console.log('contains helium: ', trie.contains('helium')); 
 console.log('contains abc: ', trie.contains('abc')); 
+console.log('contains he: ', trie.contains('he')); 
+
 
 // check find method
 console.log('find hel: ', trie.find('hel'));  // ['helium', 'hello']
 console.log('find hell: ', trie.find('hell'));  // ['hello']
+console.log('find he: ', trie.find('he')); 
