@@ -1,6 +1,6 @@
 /**
   * create suffix array from the specified text
-  * Time complexity O(n log n), Space compexity O(n)
+  * Time complexity O(n^2 Log n), space compexity O(n^2)
   * @param {string} text
   * @return {Array.<number>} suffix array
   */
