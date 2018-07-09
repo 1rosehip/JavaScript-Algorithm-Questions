@@ -1,5 +1,6 @@
 /**
   * create suffix array from the specified text
+  * Time complexity O(n log n), Space compexity O(n)
   * @param {string} text
   * @return {Array.<number>} suffix array
   */
@@ -16,7 +17,6 @@ const BuildSuffixArray = (text) => {
       suffix: text.substring(i)
     });
   }
-
     
   //sort suffixes alphabatically
   storage.sort((item1, item2) => {
