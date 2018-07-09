@@ -83,4 +83,4 @@ You have two numbers represented by a linked list, where each node contains a si
 ## Suffix Array
 
 ### Suffix array initialization
-  1. [Suffix array initialization - Time complexity O(n log n), Space compexity O(n)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/suffix-array-build.js) / [Codepen](https://codepen.io/1rosehip/pen/YvmvQR)    
+  1. [Suffix array initialization - time complexity O(n^2 Log n), space compexity O(n^2)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/suffix-array-build.js) / [Codepen](https://codepen.io/1rosehip/pen/YvmvQR)    
