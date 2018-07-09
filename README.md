@@ -78,4 +78,9 @@ You have two numbers represented by a linked list, where each node contains a si
 ## Trie
 
 ### JavaScript trie implementations
-  1. [Trie insert, check if contains a whole word, find words by prefix](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/trie-1.js) / [Codepen](https://codepen.io/1rosehip/pen/XYvEZO)     
+  1. [Trie insert, check if contains a whole word, find words by prefix](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/trie-1.js) / [Codepen](https://codepen.io/1rosehip/pen/XYvEZO)    
+  
+## Suffix Array
+
+### Suffix array initialization
+  1. [Suffix array initialization](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/suffix-array-build.js) / [Codepen](https://codepen.io/1rosehip/pen/YvmvQR)    
