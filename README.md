@@ -17,6 +17,9 @@
 ### Search for a pattern in the text  
   1. [O(mn) time complexity where n = length of the text and m = length of the pattern](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/search-pattern-1.js) / [Codepen](https://codepen.io/1rosehip/pen/xJVqKq)
   2. [KMP algorithm: O(m + n) time complexity where n = length of the text and m = length of the pattern](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/search-pattern-kmp.js) / [Codepen](https://codepen.io/1rosehip/pen/MByBZg)
+ 
+### Anagram substring search 
+  1. [O(n) time complexity where n = length of the text](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/anagram-substring-search.js) / [Codepen](https://codepen.io/1rosehip/pen/BPKqeZ)
   
 ## Arrays  
   
