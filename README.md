@@ -15,7 +15,7 @@
   2. [O(n) time complexity and O(n) space complexity using helper object](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/check-whether-two-strings-are-anagram-of-each-other-2.js) / [Codepen](https://codepen.io/1rosehip/pen/zaprQO?editors=0011)
   
 ### Search for a pattern in the text  
-  1. [O(mn) time complexity where n = length of the text and m = length of the pattern](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/mastersearch-pattern-1.js) / [Codepen](https://codepen.io/1rosehip/pen/xJVqKq)
+  1. [O(mn) time complexity where n = length of the text and m = length of the pattern](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/search-pattern-1.js) / [Codepen](https://codepen.io/1rosehip/pen/xJVqKq)
   
 ## Arrays  
   
