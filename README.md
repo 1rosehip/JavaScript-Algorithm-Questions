@@ -20,6 +20,7 @@
  
 ### Anagram substring search 
   1. [O(n) time complexity where n = length of the text](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/anagram-substring-search.js) / [Codepen](https://codepen.io/1rosehip/pen/BPKqeZ)
+  2. [O(n) time complexity where n = length of the text](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/anagram-substring-search-2.js) / [Codepen](https://codepen.io/1rosehip/pen/qyZzNE)
   
 ## Arrays  
   
