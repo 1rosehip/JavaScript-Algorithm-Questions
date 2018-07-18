@@ -21,7 +21,10 @@
 ### Anagram substring search 
   1. [O(n) time complexity where n = length of the text](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/anagram-substring-search.js) / [Codepen](https://codepen.io/1rosehip/pen/BPKqeZ)
   2. [O(n) time complexity where n = length of the text](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/anagram-substring-search-2.js) / [Codepen](https://codepen.io/1rosehip/pen/qyZzNE)
-  
+
+### Find the smallest window in a string containing all characters of another string
+  1. [O(n) time complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string.js) / [Codepen](https://codepen.io/1rosehip/pen/ZjOQmL)
+
 ## Arrays  
   
 ### Write code to reverse an array in place.
