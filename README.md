@@ -26,7 +26,7 @@
   1. [O(n) time complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string.js) / [Codepen](https://codepen.io/1rosehip/pen/ZjOQmL)
 
 ### Find longest common substring 
-  1. [O(n) time complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string.js) / [Codepen](https://codepen.io/1rosehip/pen/ZjOQmL)
+  1. [O(n) time complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/longest-common-substring.js) / [Codepen](https://codepen.io/1rosehip/pen/gjgQXO)
   
 ## Arrays  
   
