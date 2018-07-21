@@ -25,10 +25,13 @@
 ### Find the smallest window in a string containing all characters of another string
   1. [O(n) time complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string.js) / [Codepen](https://codepen.io/1rosehip/pen/ZjOQmL)
 
+### Find longest common substring 
+  1. [O(n) time complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string.js) / [Codepen](https://codepen.io/1rosehip/pen/ZjOQmL)
+  
 ## Arrays  
   
 ### Write code to reverse an array in place.
-  1. [O(n) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/reverse-an-array-in-place) / [Codepen](https://codepen.io/1rosehip/pen/vrWowx)
+  1. [O(n) time complexity and O(1) space complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/longest-common-substring.js) / [Codepen](https://codepen.io/1rosehip/pen/gjgQXO)
  
 ### Given an NxN matrix, write a method to rotate it by 90 degrees.
   1. [O(n^2) time complexity and O(1) space complexity using matrix transpose](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/rotate-matrix-90-deg.js) / [Codepen](https://codepen.io/1rosehip/pen/ZRoENO)
