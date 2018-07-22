@@ -27,7 +27,7 @@
 
 ### Find longest common substring 
   1. [Solution using suffix arrays, O(n) time complexity](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/longest-common-substring.js) / [Codepen](https://codepen.io/1rosehip/pen/gjgQXO)
-  2. [Solution using 2d array](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/longest-common-substring-2.js) / [Codepen](https://codepen.io/1rosehip/pen/gjgQXO)
+  2. [Solution using 2d array, O(mn)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/longest-common-substring-2.js) / [Codepen](https://codepen.io/1rosehip/pen/gjgQXO)
   
 ## Arrays  
   
