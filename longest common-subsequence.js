@@ -49,7 +49,7 @@ const findLongestCommonSubsequence = (text1, text2) => {
       }
     }
   }
-  console.log(arr);
+  
   let sbs = '';
   while(maxCol > 0 && maxRow > 0){
   	
