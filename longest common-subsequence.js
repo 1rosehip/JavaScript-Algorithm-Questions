@@ -79,4 +79,8 @@ const findLongestCommonSubsequence = (text1, text2) => {
 
 //TEST.................
 console.log(findLongestCommonSubsequence('HARRY', 'SALLY')); //AY
+console.log(findLongestCommonSubsequence('AA', 'BB')); //''
+console.log(findLongestCommonSubsequence('SHINCHAN', 'NOHARAAA')); //NHA
+console.log(findLongestCommonSubsequence('ABCDEF', 'FBDAMN')); //BD
+console.log(findLongestCommonSubsequence('WEWOUCUIDGCGTRMEZEPXZFEJWISRSBBSYXAYDFEJJDLEBVHHKS', 'FDAGCXGKCTKWNECHMRXZWMLRYUCOCZHJRRJBOAJOQJZZVUYXIC')); //DGCGTEXZWRYJJBV
 
