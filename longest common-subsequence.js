@@ -12,9 +12,9 @@ const findLongestCommonSubsequence = (text1, text2) => {
   const m = text2.length;
 	
   //create 2d array n x m
-	const arr = new Array(n+1).fill().map(() => {
+  const arr = new Array(n+1).fill().map(() => {
 		return new Array(m+1).fill(0);
-	});
+  });
   
   for(let col=1; col<n+1; col++){
     for(let row=1; row<m+1; row++){
@@ -49,12 +49,14 @@ const findLongestCommonSubsequence = (text1, text2) => {
       }
     }
   }
-  
+  console.log(arr);
   let sbs = '';
   while(maxCol > 0 && maxRow > 0){
   	
-    
-    if(arr[maxCol-1][maxRow] === arr[maxCol][maxRow-1]){
+    const item1 = text1[maxCol-1];
+    const item2 = text2[maxRow-1];
+      
+    if(item1 === item2){
       
       const val = text1[maxCol-1];
       sbs = val + sbs;
@@ -76,4 +78,5 @@ const findLongestCommonSubsequence = (text1, text2) => {
 
 
 //TEST.................
-console.log(findLongestCommonSubsequence('abcdaf', 'acbcf')); //abcf
+console.log(findLongestCommonSubsequence('HARRY', 'SALLY')); //AY
+
