@@ -87,7 +87,7 @@ const graph = [[1, 1, 0, 0, 1, 0],  //A
 			   [0, 0, 0, 1, 0, 0]]; //F
 
 			   
-dfs(graph, 'A'); // A -> B -> C -> D -> E -> F
+dfs(graph, 'A'); // A -> E -> D -> F -> C -> B
 bfs(graph, 'A'); // A -> B -> E -> C -> D -> F
 
 /*
