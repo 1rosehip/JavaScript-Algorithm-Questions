@@ -45,16 +45,15 @@ const dfs = (graph, start) => {
  */
 const bfs = (graph, start) => {
 
-	const stack = [start];
+	const queue = [start];
 	const visited = {};
 	const A_CODE = 65;
 
-	while(stack.length > 0){
+	while(queue.length > 0){
 
-		const node = stack.pop();
+		const node = queue.shift();
 
 		if(!visited[node]){
-
 			console.log(node);
 			visited[node] = true;
 	
@@ -69,7 +68,7 @@ const bfs = (graph, start) => {
 				const edge = edges[i];
 				const letter = String.fromCharCode(i + A_CODE);
 				if(!visited[letter] && edge){
-					stack.push(letter);
+					queue.push(letter);
 				}
 			}
 		}
@@ -86,7 +85,9 @@ const graph = [[1, 1, 0, 0, 1, 0],  //A
 			   [0, 0, 0, 1, 0, 0]]; //F
 
 			   
-bfs(graph, 'A'); // A -> B -> C -> D -> E -> F
+dfs(graph, 'A'); // A -> B -> C -> D -> E -> F
+bfs(graph, 'A'); // A -> B -> E -> C -> D -> F
+
 /*
 A -> B
 A -> E
