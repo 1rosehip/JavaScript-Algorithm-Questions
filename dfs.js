@@ -1,5 +1,5 @@
 /**
- * DFS - returns whether there's a path between two nodes in a graph.
+ * DFS
  * Time complexity: O (V + E)
  * Space complexity: O(|E|)
  * @param {Array.<Array>} graph - Adjacency matrix
