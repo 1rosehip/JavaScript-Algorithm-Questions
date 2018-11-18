@@ -14,8 +14,11 @@ const dfs = (graph, start) => {
 	while(stack.length > 0){
 
 		const node = stack.pop();
-		console.log(node);
-		visited[node] = true;
+		
+		if(!visited[node]){
+			console.log(node);
+			visited[node] = true;
+		}			
 
 		//find first non visited ajecent node and put it to the stack
 		//1. find ajecent nodes
@@ -29,7 +32,6 @@ const dfs = (graph, start) => {
 			const letter = String.fromCharCode(i + A_CODE);
 			if(!visited[letter] && edge){
 				stack.push(letter);
-				break;
 			}
 		}
 
