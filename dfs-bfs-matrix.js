@@ -88,6 +88,7 @@ const graph = [[1, 1, 0, 0, 1, 0],  //A
 
 			   
 dfs(graph, 'A'); // A -> E -> D -> F -> C -> B
+console.log('----------');
 bfs(graph, 'A'); // A -> B -> E -> C -> D -> F
 
 /*
