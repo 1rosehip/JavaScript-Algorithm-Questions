@@ -106,4 +106,8 @@ You have two numbers represented by a linked list, where each node contains a si
 
 ### Suffix array initialization
   1. [Suffix array initialization - time complexity O(n^2 Log n), space compexity O(n^2)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/suffix-array-build.js) / [Codepen](https://codepen.io/1rosehip/pen/YvmvQR)    
-  2. [LCP array (Longest Common Prefix array)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/lcp-array.js) / [Codepen](https://codepen.io/1rosehip/pen/xJgQaQ)    
+  2. [LCP array (Longest Common Prefix array)](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/lcp-array.js) / [Codepen](https://codepen.io/1rosehip/pen/xJgQaQ)   
+  
+## Graphs
+  1. [DFS and DFS - adjacency matrix representation](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/dfs-bfs-matrix.js)    
+  2. [DFS and DFS - adjacency list representation](https://github.com/1rosehip/JavaScript-Algorithm-Questions/blob/master/dfs-bfs-list.js)   
